@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?DOCTYPE note
+[
+<!ELEMENT note (name,event,age,city)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT event (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+]?>
+<?xml-stylesheet type="text/xsl" href="Rules.xsl" ?>
+<participants>
+<details>
+<name> Divyank Singh detailsikarwar </name>
+<event>Baptism</event>
+<age>18</age>
+<city> Agra </city>
+</details>
+<details>
+<name> Aniket Chauhan </name>
+<event> Wedding</event>
+<age> 20</age>
+<city> Shahjahanpur </city>
+</details>
+<details>
+<name> Simran Agarwal</name>
+<event> Funeral</event>
+<age> 23</age>
+<city> Buland Shar</city>
+</details>
+<details>
+<name> Abhay Chauhan</name>
+<event> Baptism</event>
+<age> 17</age>
+<city> Shahjahanpur</city>
+</details>
+<details>
+<name> Himanshu Bhatia</name>
+<event> Wedding</event>
+<age> 25</age>
+<city> Indore</city>
+</details>
+<details>
+<name> Annanya roy</name>
+<event> Baptism</event>
+<age> 22</age>
+<city> Kolkata</city>
+</details>
+<details>
+<name>Niharika Malviya</name>
+<event>Baptism </event>
+<age> 21</age>
+<city>UP</city>
+</details>
+<details>
+<name> Alisha</name>
+<event> Wedding</event>
+<age> 22</age>
+<city> Indore</city>
+</details>
+<details>
+<name>Aarti Yadav</name>
+<event>Funeral</event>
+<age> 22</age>
+<city> Hariyana</city>
+</details>
+</participants>
